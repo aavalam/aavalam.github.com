@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Green | The Red Gem of Programming]]></title>
-  <link href="http://aavalam.github.com/aavalam/blog/categories/green/atom.xml" rel="self"/>
-  <link href="http://aavalam.github.com/aavalam/"/>
-  <updated>2013-05-03T15:15:47-05:00</updated>
-  <id>http://aavalam.github.com/aavalam/</id>
+  <link href="http://aavalam.github.com/blog/categories/green/atom.xml" rel="self"/>
+  <link href="http://aavalam.github.com/"/>
+  <updated>2013-05-03T16:43:13-05:00</updated>
+  <id>http://aavalam.github.com/</id>
   <author>
     <name><![CDATA[Victor and Ashbbb]]></name>
     <email><![CDATA[keeperotphones@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Gravity simulator : Fantastic Green Shoes App]]></title>
-    <link href="http://aavalam.github.com/aavalam/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app/"/>
+    <link href="http://aavalam.github.com/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app/"/>
     <updated>2013-05-03T14:18:00-05:00</updated>
-    <id>http://aavalam.github.com/aavalam/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app</id>
+    <id>http://aavalam.github.com/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app</id>
     <content type="html"><![CDATA[<p>I'd love to introduce a new fantastic Green Shoes app: <a href="http://ifni.co/articles/programming/gravity_simulator">Gravity
 simulator</a></p>
 

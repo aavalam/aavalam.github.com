@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Ruby | The Red Gem of Programming]]></title>
-  <link href="http://aavalam.github.com/aavalam/blog/categories/ruby/atom.xml" rel="self"/>
-  <link href="http://aavalam.github.com/aavalam/"/>
-  <updated>2013-05-03T15:15:47-05:00</updated>
-  <id>http://aavalam.github.com/aavalam/</id>
+  <link href="http://aavalam.github.com/blog/categories/ruby/atom.xml" rel="self"/>
+  <link href="http://aavalam.github.com/"/>
+  <updated>2013-05-03T16:43:13-05:00</updated>
+  <id>http://aavalam.github.com/</id>
   <author>
     <name><![CDATA[Victor and Ashbbb]]></name>
     <email><![CDATA[keeperotphones@gmail.com]]></email>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Gravity simulator : Fantastic Green Shoes App]]></title>
-    <link href="http://aavalam.github.com/aavalam/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app/"/>
+    <link href="http://aavalam.github.com/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app/"/>
     <updated>2013-05-03T14:18:00-05:00</updated>
-    <id>http://aavalam.github.com/aavalam/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app</id>
+    <id>http://aavalam.github.com/blog/2013/05/03/gravity-simulator-fantastic-green-shoes-app</id>
     <content type="html"><![CDATA[<p>I'd love to introduce a new fantastic Green Shoes app: <a href="http://ifni.co/articles/programming/gravity_simulator">Gravity
 simulator</a></p>
 
@@ -36,9 +36,9 @@ executed <a href="http://ifni.co/src/gsim.rb">his code</a> on my Windows 7.</p>
   
   <entry>
     <title type="html"><![CDATA[Ruby Programming 41st Batch Registrations now open]]></title>
-    <link href="http://aavalam.github.com/aavalam/blog/2013/03/14/ruby-programming-41st-batch-registrations-now-open/"/>
+    <link href="http://aavalam.github.com/blog/2013/03/14/ruby-programming-41st-batch-registrations-now-open/"/>
     <updated>2013-03-14T00:25:00-05:00</updated>
-    <id>http://aavalam.github.com/aavalam/blog/2013/03/14/ruby-programming-41st-batch-registrations-now-open</id>
+    <id>http://aavalam.github.com/blog/2013/03/14/ruby-programming-41st-batch-registrations-now-open</id>
     <content type="html"><![CDATA[<p>Registrations are now open for RubyLearning’s popular <a href="http://rubylearning.com/blog/2013/03/14/ruby-programming-41st-batch-registrations-now-open/">Ruby Programming Course</a>. <!-- More -->This is an intensive (as you want it to be), online course for beginners that helps you
 get started with Ruby programming.</p>
 
@@ -55,9 +55,9 @@ get started with Ruby programming.</p>
   
   <entry>
     <title type="html"><![CDATA[Ruby 2.0.0 Params Not Just for Methods]]></title>
-    <link href="http://aavalam.github.com/aavalam/blog/2013/03/09/ruby-2-dot-0-0-params-not-just-for-methods/"/>
+    <link href="http://aavalam.github.com/blog/2013/03/09/ruby-2-dot-0-0-params-not-just-for-methods/"/>
     <updated>2013-03-09T03:46:00-06:00</updated>
-    <id>http://aavalam.github.com/aavalam/blog/2013/03/09/ruby-2-dot-0-0-params-not-just-for-methods</id>
+    <id>http://aavalam.github.com/blog/2013/03/09/ruby-2-dot-0-0-params-not-just-for-methods</id>
     <content type="html"><![CDATA[<p>While working on documenting things I learned through a Learn Ruby By
 Testing project, I came across documenting the new Ruby 2.0 'Params'
 feature.</p>
@@ -143,9 +143,9 @@ Post</a>?</p>
   
   <entry>
     <title type="html"><![CDATA[Testing multiple versions of Ruby]]></title>
-    <link href="http://aavalam.github.com/aavalam/blog/2013/02/26/testing-multiple-versions-of-ruby/"/>
+    <link href="http://aavalam.github.com/blog/2013/02/26/testing-multiple-versions-of-ruby/"/>
     <updated>2013-02-26T17:24:00-06:00</updated>
-    <id>http://aavalam.github.com/aavalam/blog/2013/02/26/testing-multiple-versions-of-ruby</id>
+    <id>http://aavalam.github.com/blog/2013/02/26/testing-multiple-versions-of-ruby</id>
     <content type="html"><![CDATA[<p>When you have code that you would like to test, it is fairly simple to
 develop your tests to allow for it to be ran in more than one version of
 Ruby. <!-- more --></p>
@@ -250,9 +250,9 @@ version as well, while not running against previous ones.</p>
   
   <entry>
     <title type="html"><![CDATA[Ruby 2.0.0-p0 Notes]]></title>
-    <link href="http://aavalam.github.com/aavalam/blog/2013/02/25/ruby-2-dot-0-0-p0-notes/"/>
+    <link href="http://aavalam.github.com/blog/2013/02/25/ruby-2-dot-0-0-p0-notes/"/>
     <updated>2013-02-25T03:39:00-06:00</updated>
-    <id>http://aavalam.github.com/aavalam/blog/2013/02/25/ruby-2-dot-0-0-p0-notes</id>
+    <id>http://aavalam.github.com/blog/2013/02/25/ruby-2-dot-0-0-p0-notes</id>
     <content type="html"><![CDATA[<p>I have been waiting for the 24th of February to see what would come of
 the planned release date for Ruby 2.0.0-p0.</p>
 
